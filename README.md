@@ -31,3 +31,23 @@ This section supplements the maintainer-authored README above; it does not repla
 3. Add evaluation against documented ground truth and label forecasts/alerts with uncertainty and limitations.
 
 **Verification status:** source-tree inspection only; no runnable product or automated test suite verified.
+
+
+---
+
+## Branch Activity & Development History
+
+**Audit date:** 2026-11-18 · **Comparison base:** `main`
+
+| Branch | Difference from `main` | Observed work / changed paths |
+|---|---:|---|
+| `audit/initial-assessment-2026-11-15` | 1 ahead / 1 behind | Initial engineering assessment in `AI_WORKLOG.md` |
+| `docs/portfolio-operating-kit-2026-11-13` | 0 / 4 | No unique commits relative to current `main`; branch is behind |
+| `docs/project-status-2026-11-16-hydro-glance` | 1 / 1 | Project status snapshot: `PROJECT_STATUS.md` |
+
+### Open pull requests observed during this audit
+
+- [PR #3 — project status snapshot](https://github.com/Gitcoder12/Hydro-Glance/pull/3)
+- [PR #2 — engineering audit worklog](https://github.com/Gitcoder12/Hydro-Glance/pull/2)
+
+**Verification boundary:** Git metadata and changed paths only. Review PR head/base and CI before merging. No branches have been merged or deleted by this documentation update.
