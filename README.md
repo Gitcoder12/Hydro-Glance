@@ -31,3 +31,10 @@ This section supplements the maintainer-authored README above; it does not repla
 3. Add evaluation against documented ground truth and label forecasts/alerts with uncertainty and limitations.
 
 **Verification status:** source-tree inspection only; no runnable product or automated test suite verified.
+
+---
+
+## Examples Used
+- Detecting drought signals from falling reservoir levels
+- Identifying flood anomalies after unusually heavy rainfall
+- Tracking coastal sea-level changes over time
